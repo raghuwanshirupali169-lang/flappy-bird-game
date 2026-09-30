@@ -1,0 +1,8 @@
+{
+  "name": "Flappy Bird",
+  "description": "A classic single-file Flappy Bird clone with procedural HTML5 Canvas graphics, smooth physics, high scores, and Web Audio retro sounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
